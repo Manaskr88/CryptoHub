@@ -82,16 +82,6 @@ http://localhost:3000/
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots inside a folder named `screenshots` in the project directory)
-
-```markdown
-![Home Page](screenshots/home.png)
-![Chart View](screenshots/chart.png)
-```
-
----
 
 ## 📈 Future Enhancements
 
